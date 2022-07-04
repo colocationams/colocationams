@@ -1,16 +1,20 @@
-### Hi there 👋
+# Colocation in AMS
 
-<!--
-**colocationams/colocationams** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+We provide colocation in Amsterdam with connection to AMS-IX.
 
-Here are some ideas to get you started:
+## Professional hosting
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+You can trust us:
+
+* Connections to AMS-IX and DE-CIX
+* State-of-the-art routers from Juniper
+* Guaranteed network availability of at least 99.9%
+* Direct free cooling ensures environmentally friendly cooling
+* Qualified and multilingual technicians are 24/7 on-site to assist you
+* ISO 27001 certified
+
+## Contact
+
+hello@colocationams.net
+
++31 20 893 2144
